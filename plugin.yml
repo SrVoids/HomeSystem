@@ -1,0 +1,12 @@
+name: HomeSystemVD
+version: 1.0
+author: SrVoids
+main: ....
+commands:
+  homes:
+    description: Abre o inventário de homes
+  addhome:
+    description: Adiciona uma home
+  removehome:
+    description: Remove uma home
+    
